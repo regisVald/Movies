@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Semana1_DPWA.props" />
+</Project>
